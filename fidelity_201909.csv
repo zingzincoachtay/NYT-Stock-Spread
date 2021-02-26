@@ -1,0 +1,328 @@
+ ----  |                      Name                       |  $$$$  | ANdiv | divY%  |        Sector         |                            industry                            
+ USOI  | Credit Suisse AG                                | 20.058 | 3.883 | 19.272 | Finance               | Investment Bankers/Brokers/Service
+ SALM  | Salem Media Group, Inc.                         |  1.470 | 0.260 | 17.687 | Consumer Services     | Broadcasting
+ GMLP  | Golar LNG Partners LP                           |  9.810 | 1.617 | 16.217 | Consumer Services     | Marine Transportation
+ GPP   | Green Plains Partners LP                        | 12.930 | 1.900 | 14.351 | Basic Industries      | Major Chemicals
+ GLDI  | Credit Suisse AG                                |  9.337 | 1.063 | 11.482 | Finance               | Investment Bankers/Brokers/Service
+ BGCP  | BGC Partners, Inc.                              |  5.100 | 0.560 | 11.067 | Finance               | Investment Bankers/Brokers/Service
+ BGFV  | Big 5 Sporting Goods Corporation                |  1.790 | 0.200 | 10.695 | Consumer Services     | Other Specialty Stores
+ PMD   | Psychemedics Corporation                        |  7.800 | 0.720 |  9.639 | Health Care           | Medical Specialities
+ RILY  | B. Riley Financial, Inc.                        | 21.160 | 0.700 |  9.565 | Miscellaneous         | Business Services
+ LMRK  | Landmark Infrastructure Partners LP             | 15.100 | 1.470 |  9.478 | Consumer Services     | Real Estate
+ GLAD  | Gladstone Capital Corporation                   |  9.320 | 0.840 |  8.974 | Consumer Non-Durables | Textiles
+ NCMI  | National CineMedia, Inc.                        |  8.200 | 0.680 |  8.395 | Consumer Services     | Advertising
+ SLVO  | Credit Suisse AG                                |  7.390 | 0.606 |  8.256 | Finance               | Investment Bankers/Brokers/Service
+ OPI   | Office Properties Income Trust                  | 27.110 | 2.200 |  8.082 | Finance               | Real Estate
+ ADES  | Advanced Emissions Solutions, Inc.              | 12.620 | 1.000 |  7.868 | Basic Industries      | Major Chemicals
+ SPKE  | Spark Energy, Inc.                              |  9.460 | 0.725 |  7.616 | Public Utilities      | Power Generation
+ CG    | The Carlyle Group L.P.                          | 22.780 | 1.720 |  7.491 | Finance               | Investment Managers
+ ODP   | Office Depot, Inc.                              |  1.300 | 0.100 |  7.463 | Consumer Services     | Other Specialty Stores
+ TTS   | Tile Shop Hldgs, Inc.                           |  2.690 | 0.200 |  7.380 | Consumer Services     | Home Furnishings
+ BMLP  | Bank Of Montreal                                | 47.810 | 3.477 |  7.292 | Finance               | Commercial Banks
+ BBBY  | Bed Bath & Beyond Inc.                          |  9.670 | 0.680 |  7.173 | Consumer Services     | Home Furnishings
+ PACW  | PacWest Bancorp                                 | 34.080 | 2.400 |  7.069 | Finance               | Major Banks
+ PETS  | PetMed Express, Inc.                            | 15.800 | 1.080 |  6.968 | Health Care           | Medical/Nursing Services
+ IPHS  | Innophos Holdings, Inc.                         | 28.090 | 1.920 |  6.727 | Consumer Durables     | Specialty Chemicals
+ GOGL  | Golden Ocean Group Limited                      |  6.200 | 0.400 |  6.612 | Consumer Services     | Marine Transportation
+ ESBK  | Elmira Savings Bank NY (The)                    | 14.090 | 0.920 |  6.486 | Finance               | Major Banks
+ BBGI  | Beasley Broadcast Group, Inc.                   |  3.050 | 0.200 |  6.473 | Consumer Services     | Broadcasting
+ KHC   | The Kraft Heinz Company                         | 25.520 | 1.600 |  6.317 | Consumer Non-Durables | Packaged Foods
+ PDCO  | Patterson Companies, Inc.                       | 16.720 | 1.040 |  6.209 | Health Care           | Medical Specialities
+ NVEC  | NVE Corporation                                 | 64.200 | 4.000 |  6.202 | Technology            | Semiconductors
+ CRWS  | Crown Crafts, Inc.                              |  5.360 | 0.320 |  6.178 | Basic Industries      | Textiles
+ FLXS  | Flexsteel Industries, Inc.                      | 15.140 | 0.880 |  6.150 | Consumer Durables     | Home Furnishings
+ TFSL  | TFS Financial Corporation                       | 17.510 | 1.080 |  6.081 | Finance               | Savings Institutions
+ GPRE  | Green Plains, Inc.                              |  8.210 | 0.480 |  6.068 | Basic Industries      | Major Chemicals
+ ORIT  | Oritani Financial Corp.                         | 17.130 | 1.000 |  5.828 | Finance               | Major Banks
+ UG    | United-Guardian, Inc.                           | 18.910 | 1.100 |  5.720 | Consumer Non-Durables | Package Goods/Cosmetics
+ HNNA  | Hennessy Advisors, Inc.                         |  9.910 | 0.550 |  5.589 | Finance               | Investment Managers
+ GT    | The Goodyear Tire & Rubber Company              | 11.470 | 0.640 |  5.570 | Consumer Durables     | Automotive Aftermarket
+ HAFC  | Hanmi Financial Corporation                     | 17.910 | 0.960 |  5.427 | Finance               | Major Banks
+ UMPQ  | Umpqua Holdings Corporation                     | 15.710 | 0.840 |  5.392 | Finance               | Savings Institutions
+ TESS  | TESSCO Technologies Incorporated                | 14.780 | 0.800 |  5.270 | Technology            | Electronic Components
+ KFFB  | Kentucky First Federal Bancorp                  |  7.603 | 0.400 |  5.261 | Finance               | Savings Institutions
+ VIRT  | Virtu Financial, Inc.                           | 18.800 | 0.960 |  5.235 | Finance               | Investment Bankers/Brokers/Service
+ GLNG  | Golar LNG Limited                               | 11.710 | 0.600 |  5.213 | Consumer Services     | Marine Transportation
+ RMCF  | Rocky Mountain Chocolate Factory, Inc.          |  9.320 | 0.480 |  5.178 | Consumer Non-Durables | Specialty Foods
+ NAVI  | Navient Corporation                             | 12.740 | 0.640 |  5.008 | Finance               | Investment Bankers/Brokers/Service
+ PBCT  | People&#39;s United Financial, Inc.             | 14.370 | 0.710 |  4.944 | Finance               | Savings Institutions
+ ARKR  | Ark Restaurants Corp.                           | 20.149 | 1.000 |  4.938 | Consumer Services     | Restaurants
+ CIZN  | Citizens Holding Company                        | 20.100 | 0.960 |  4.861 | Finance               | Major Banks
+ WSTG  | Wayside Technology Group, Inc.                  | 13.850 | 0.680 |  4.857 | Technology            | Retail: Computer Software & Peripheral Equipment
+ UBCP  | United Bancorp, Inc.                            | 11.450 | 0.540 |  4.843 | Finance               | Major Banks
+ ESCA  | Escalade, Incorporated                          | 10.330 | 0.500 |  4.831 | Consumer Non-Durables | Recreational Products/Toys
+ FNLC  | First Bancorp, Inc (ME)                         | 25.400 | 1.200 |  4.806 | Finance               | Major Banks
+ KEQU  | Kewaunee Scientific Corporation                 | 16.080 | 0.760 |  4.795 | Capital Goods         | Medical Specialities
+ SAMG  | Silvercrest Asset Management Group Inc.         | 13.070 | 0.600 |  4.710 | Finance               | Investment Managers
+ NMRK  | Newmark Group, Inc.                             |  8.680 | 0.400 |  4.646 | Finance               | Real Estate
+ LYTS  | LSI Industries Inc.                             |  4.470 | 0.200 |  4.619 | Consumer Durables     | Building Products
+ PWOD  | Penns Woods Bancorp, Inc.                       | 41.290 | 1.880 |  4.598 | Finance               | Major Banks
+ CZNC  | Citizens & Northern Corp                        | 23.720 | 1.080 |  4.576 | Finance               | Major Banks
+ BPFH  | Boston Private Financial Holdings, Inc.         | 10.620 | 0.480 |  4.550 | Finance               | Major Banks
+ UNB   | Union Bankshares, Inc.                          | 27.440 | 1.240 |  4.541 | Finance               | Major Banks
+ MERC  | Mercer International Inc.                       | 12.040 | 0.550 |  4.538 | Basic Industries      | Paper
+ NWBI  | Northwest Bancshares, Inc.                      | 15.810 | 0.720 |  4.534 | Finance               | Major Banks
+ MEOH  | Methanex Corporation                            | 32.460 | 1.440 |  4.518 | Basic Industries      | Major Chemicals
+ BCBP  | BCB Bancorp, Inc. (NJ)                          | 12.360 | 0.560 |  4.491 | Finance               | Savings Institutions
+ NNBR  | NN, Inc.                                        |  6.420 | 0.280 |  4.480 | Capital Goods         | Metal Fabrications
+ MBTF  | M B T Financial Corp                            |  9.840 | 0.440 |  4.467 | Finance               | Major Banks
+ PEBO  | Peoples Bancorp Inc.                            | 30.710 | 1.360 |  4.427 | Finance               | Major Banks
+ CSPI  | CSP Inc.                                        | 13.646 | 0.600 |  4.416 | Technology            | EDP Services
+ XPER  | Xperi Corporation                               | 18.320 | 0.800 |  4.398 | Technology            | Semiconductors
+ TAIT  | Taitron Components Incorporated                 |  2.770 | 0.120 |  4.396 | Technology            | Electronic Components
+ WASH  | Washington Trust Bancorp, Inc.                  | 46.400 | 2.040 |  4.368 | Finance               | Major Banks
+ SPOK  | Spok Holdings, Inc.                             | 11.750 | 0.500 |  4.352 | Public Utilities      | Telecommunications Equipment
+ FFIC  | Flushing Financial Corporation                  | 19.290 | 0.840 |  4.339 | Finance               | Major Banks
+ UBFO  | United Security Bancshares                      | 10.380 | 0.440 |  4.259 | Finance               | Major Banks
+ HBAN  | Huntington Bancshares Incorporated              | 13.250 | 0.560 |  4.236 | Finance               | Major Banks
+ VLY   | Valley National Bancorp                         | 10.510 | 0.440 |  4.207 | Finance               | Major Banks
+ TIVO  | TiVo Corporation                                |  7.530 | 0.320 |  4.189 | Miscellaneous         | Multi-Sector Companies
+ HOPE  | Hope Bancorp, Inc.                              | 13.410 | 0.560 |  4.176 | Finance               | Major Banks
+ RELL  | Richardson Electronics, Ltd.                    |  5.840 | 0.240 |  4.174 | Technology            | Electronic Components
+ BSET  | Bassett Furniture Industries, Incorporated      | 12.180 | 0.500 |  4.125 | Consumer Durables     | Home Furnishings
+ HTBK  | Heritage Commerce Corp                          | 11.590 | 0.480 |  4.124 | Finance               | Major Banks
+ SGA   | Saga Communications, Inc.                       | 28.540 | 1.200 |  4.121 | Consumer Services     | Broadcasting
+ FHB   | First Hawaiian, Inc.                            | 25.700 | 1.040 |  4.091 | Finance               | Major Banks
+ LCNB  | LCNB Corporation                                | 16.770 | 0.680 |  4.087 | Finance               | Major Banks
+ CCOI  | Cogent Communications Holdings, Inc.            | 60.890 | 2.480 |  4.083 | Consumer Services     | Telecommunications Equipment
+ PFG   | Principal Financial Group Inc                   | 53.220 | 2.160 |  4.060 | Finance               | Accident &Health Insurance
+ WTBA  | West Bancorporation                             | 20.840 | 0.840 |  4.044 | Finance               | Major Banks
+ DGICA | Donegal Group, Inc.                             | 14.430 | 0.580 |  4.022 | Finance               | Property-Casualty Insurers
+ VLGEA | Village Super Market, Inc.                      | 24.970 | 1.000 |  4.016 | Consumer Services     | Food Chains
+ NTAP  | NetApp, Inc.                                    | 48.060 | 1.920 |  4.008 | Technology            | Electronic Components
+ RIVE  | Riverview Financial Corporation                 |  9.966 | 0.400 |  4.000 | Finance               | Major Banks
+ NKSH  | National Bankshares, Inc.                       | 33.500 | 1.340 |  3.992 | Finance               | Major Banks
+ ISBC  | Investors Bancorp, Inc.                         | 11.100 | 0.440 |  3.975 | Finance               | Major Banks
+ FFBC  | First Financial Bancorp.                        | 23.420 | 0.920 |  3.966 | Finance               | Major Banks
+ GILD  | Gilead Sciences, Inc.                           | 63.540 | 2.520 |  3.953 | Health Care           | Biotechnology: Biological Products (No Diagnostic Substances)
+ PFBI  | Premier Financial Bancorp, Inc.                 | 15.500 | 0.600 |  3.914 | Finance               | Major Banks
+ FCBP  | First Choice Bancorp                            | 20.940 | 0.800 |  3.904 | Finance               | Major Banks
+ WEYS  | Weyco Group, Inc.                               | 24.530 | 0.960 |  3.904 | Consumer Non-Durables | Apparel
+ CBFV  | CB Financial Services, Inc.                     | 24.900 | 0.960 |  3.863 | Finance               | Major Banks
+ GBLI  | Global Indemnity Limited                        | 25.750 | 1.000 |  3.861 | Finance               | Property-Casualty Insurers
+ UBNK  | United Financial Bancorp, Inc.                  | 12.500 | 0.480 |  3.852 | Finance               | Banks
+ FRAF  | Franklin Financial Services Corporation         | 31.580 | 1.200 |  3.814 | Finance               | Major Banks
+ EMCF  | Emclaire Financial Corp                         | 32.955 | 1.160 |  3.813 | Finance               | Major Banks
+ GLBZ  | Glen Burnie Bancorp                             | 10.560 | 0.400 |  3.810 | Finance               | Major Banks
+ CAKE  | The Cheesecake Factory Incorporated             | 37.990 | 1.440 |  3.792 | Consumer Services     | Restaurants
+ DGICB | Donegal Group, Inc.                             | 12.000 | 0.510 |  3.755 | Finance               | Property-Casualty Insurers
+ SBSI  | Southside Bancshares, Inc.                      | 32.930 | 1.240 |  3.755 | Finance               | Major Banks
+ MSBI  | Midland States Bancorp, Inc.                    | 25.770 | 0.970 |  3.751 | Finance               | Major Banks
+ CATY  | Cathay General Bancorp                          | 33.190 | 1.240 |  3.715 | Finance               | Major Banks
+ OZK   | Bank OZK                                        | 25.800 | 0.960 |  3.712 | Finance               | Major Banks
+ UBSI  | United Bankshares, Inc.                         | 36.880 | 1.360 |  3.691 | Finance               | Major Banks
+ SAFT  | Safety Insurance Group, Inc.                    | 96.440 | 3.600 |  3.688 | Finance               | Property-Casualty Insurers
+ CTBI  | Community Trust Bancorp, Inc.                   | 38.900 | 1.440 |  3.681 | Finance               | Major Banks
+ TCF   | TCF Financial Corporation                       | 38.560 | 1.400 |  3.676 | Finance               | Major Banks
+ IBCP  | Independent Bank Corporation                    | 19.430 | 0.720 |  3.675 | Finance               | Major Banks
+ FITB  | Fifth Third Bancorp                             | 26.450 | 0.960 |  3.649 | Finance               | Major Banks
+ WBA   | Walgreens Boots Alliance, Inc.                  | 51.190 | 1.830 |  3.631 | Health Care           | Medical/Nursing Services
+ WDC   | Western Digital Corporation                     | 57.270 | 2.000 |  3.631 | Technology            | Electronic Components
+ WSBC  | WesBanco, Inc.                                  | 34.220 | 1.240 |  3.612 | Finance               | Major Banks
+ HCSG  | Healthcare Services Group, Inc.                 | 22.550 | 0.795 |  3.599 | Health Care           | Hospital/Nursing Management
+ SASR  | Sandy Spring Bancorp, Inc.                      | 33.480 | 1.200 |  3.571 | Finance               | Major Banks
+ STLD  | Steel Dynamics, Inc.                            | 27.000 | 0.960 |  3.565 | Basic Industries      | Steel/Iron Ore
+ MXIM  | Maxim Integrated Products, Inc.                 | 54.540 | 1.920 |  3.560 | Technology            | Semiconductors
+ TRST  | TrustCo Bank Corp NY                            |  7.670 | 0.273 |  3.553 | Finance               | Major Banks
+ MINI  | Mobile Mini, Inc.                               | 31.260 | 1.100 |  3.514 | Capital Goods         | Metal Fabrications
+ ATLO  | Ames National Corporation                       | 26.470 | 0.960 |  3.504 | Finance               | Major Banks
+ CVBF  | CVB Financial Corporation                       | 20.570 | 0.720 |  3.504 | Finance               | Major Banks
+ LARK  | Landmark Bancorp Inc.                           | 22.900 | 0.800 |  3.478 | Finance               | Major Banks
+ FISI  | Financial Institutions, Inc.                    | 29.060 | 1.000 |  3.464 | Finance               | Major Banks
+ BKSC  | Bank of South Carolina Corp.                    | 18.550 | 0.640 |  3.450 | Finance               | Major Banks
+ ADTN  | ADTRAN, Inc.                                    | 10.270 | 0.360 |  3.429 | Public Utilities      | Telecommunications Equipment
+ BDGE  | Bridge Bancorp, Inc.                            | 26.910 | 0.920 |  3.424 | Finance               | Major Banks
+ FGBI  | First Guaranty Bancshares, Inc.                 | 18.980 | 0.640 |  3.406 | Finance               | Savings Institutions
+ RECN  | Resources Connection, Inc.                      | 16.550 | 0.560 |  3.404 | Miscellaneous         | Business Services
+ BUSE  | First Busey Corporation                         | 24.500 | 0.840 |  3.401 | Finance               | Major Banks
+ EDUC  | Educational Development Corporation             |  5.880 | 0.200 |  3.390 | Consumer Durables     | Consumer Specialties
+ HOFT  | Hooker Furniture Corporation                    | 17.860 | 0.600 |  3.378 | Consumer Durables     | Home Furnishings
+ MBWM  | Mercantile Bank Corporation                     | 30.770 | 1.040 |  3.373 | Finance               | Major Banks
+ MFNC  | Mackinac Financial Corporation                  | 14.140 | 0.480 |  3.368 | Finance               | Major Banks
+ BFIN  | BankFinancial Corporation                       | 11.660 | 0.400 |  3.364 | Finance               | Savings Institutions
+ LBAI  | Lakeland Bancorp, Inc.                          | 14.880 | 0.500 |  3.345 | Finance               | Major Banks
+ ZION  | Zions Bancorporation N.A.                       | 41.090 | 1.360 |  3.336 | Finance               | Major Banks
+ SCHN  | Schnitzer Steel Industries, Inc.                | 22.140 | 0.750 |  3.327 | Consumer Durables     | Industrial Specialties
+ UCFC  | United Community Financial Corp.                |  9.650 | 0.320 |  3.313 | Finance               | Banks
+ NRIM  | Northrim BanCorp Inc                            | 36.200 | 1.200 |  3.306 | Finance               | Savings Institutions
+ COLB  | Columbia Banking System, Inc.                   | 34.510 | 1.120 |  3.281 | Finance               | Major Banks
+ FULT  | Fulton Financial Corporation                    | 15.950 | 0.520 |  3.275 | Finance               | Major Banks
+ STND  | Standard AVB Financial Corp.                    | 27.000 | 0.884 |  3.275 | Finance               | Major Banks
+ QCOM  | QUALCOMM Incorporated                           | 77.770 | 2.480 |  3.244 | Technology            | Radio And Television Broadcasting And Communications Equipment
+ PCTI  | PC-Tel, Inc.                                    |  6.820 | 0.220 |  3.231 | Technology            | Radio And Television Broadcasting And Communications Equipment
+ AROW  | Arrow Financial Corporation                     | 32.160 | 1.040 |  3.223 | Finance               | Major Banks
+ LSBK  | Lake Shore Bancorp, Inc.                        | 14.950 | 0.480 |  3.211 | Finance               | Savings Institutions
+ TBNK  | Territorial Bancorp Inc.                        | 27.350 | 0.880 |  3.204 | Finance               | Savings Institutions
+ FIBK  | First Interstate BancSystem, Inc.               | 39.000 | 1.240 |  3.199 | Finance               | Major Banks
+ OCFC  | OceanFirst Financial Corp.                      | 21.020 | 0.680 |  3.197 | Finance               | Savings Institutions
+ VIAB  | Viacom Inc.                                     | 24.980 | 0.800 |  3.180 | Consumer Services     | Television Services
+ UVSP  | Univest Financial Corporation                   | 25.310 | 0.800 |  3.145 | Finance               | Major Banks
+ CFFI  | C&F Financial Corporation                       | 47.400 | 1.480 |  3.141 | Finance               | Major Banks
+ STBA  | S&T Bancorp, Inc.                               | 34.220 | 1.080 |  3.139 | Finance               | Major Banks
+ BRKL  | Brookline Bancorp, Inc.                         | 14.040 | 0.440 |  3.138 | Finance               | Savings Institutions
+ FCBC  | First Community Bankshares, Inc.                | 31.810 | 1.000 |  3.127 | Finance               | Major Banks
+ MTEX  | Mannatech, Incorporated                         | 16.090 | 0.500 |  3.125 | Consumer Durables     | Specialty Chemicals
+ FLIC  | The First of Long Island Corporation            | 21.760 | 0.680 |  3.124 | Finance               | Major Banks
+ VALU  | Value Line, Inc.                                | 26.800 | 0.800 |  3.124 | Finance               | Investment Managers
+ NWFL  | Norwood Financial Corp.                         | 30.720 | 0.960 |  3.117 | Finance               | Major Banks
+ TACT  | TransAct Technologies Incorporated              | 11.830 | 0.360 |  3.080 | Technology            | Computer peripheral equipment
+ STAF  | Staffing 360 Solutions, Inc.                    |  1.350 | 0.040 |  3.077 | Technology            | Professional Services
+ HWC   | Hancock Whitney Corporation                     | 35.110 | 1.080 |  3.074 | Finance               | Major Banks
+ ONB   | Old National Bancorp                            | 16.800 | 0.520 |  3.070 | Finance               | Major Banks
+ BSRR  | Sierra Bancorp                                  | 24.640 | 0.760 |  3.065 | Finance               | Major Banks
+ KINS  | Kingstone Companies, Inc                        |  8.090 | 0.250 |  3.056 | Finance               | Property-Casualty Insurers
+ BANR  | Banner Corporation                              | 53.910 | 1.640 |  3.053 | Finance               | Major Banks
+ PFIS  | Peoples Financial Services Corp.                | 44.770 | 1.360 |  3.043 | Finance               | Major Banks
+ BMTC  | Bryn Mawr Bank Corporation                      | 34.100 | 1.040 |  3.034 | Finance               | Major Banks
+ PAYX  | Paychex, Inc.                                   | 81.700 | 2.480 |  3.030 | Consumer Services     | Diversified Commercial Services
+ SAL   | Salisbury Bancorp, Inc.                         | 38.500 | 1.120 |  3.027 | Finance               | Savings Institutions
+ RMR   | The RMR Group Inc.                              | 46.590 | 1.400 |  3.004 | Consumer Services     | Professional Services
+ HAYN  | Haynes International, Inc.                      | 29.870 | 0.880 |  3.002 | Capital Goods         | Steel/Iron Ore
+ PPBI  | Pacific Premier Bancorp Inc                     | 29.460 | 0.880 |  2.995 | Finance               | Major Banks
+ NBTB  | NBT Bancorp Inc.                                | 34.970 | 1.040 |  2.980 | Finance               | Major Banks
+ ACNB  | ACNB Corporation                                | 33.680 | 1.000 |  2.974 | Finance               | Major Banks
+ STRT  | Strattec Security Corporation                   | 18.708 | 0.560 |  2.968 | Capital Goods         | Auto Parts:O.E.M.
+ CSCO  | Cisco Systems, Inc.                             | 46.810 | 1.400 |  2.962 | Technology            | Computer Communications Equipment
+ ANDE  | The Andersons, Inc.                             | 22.920 | 0.680 |  2.960 | Consumer Services     | Farming/Seeds/Milling
+ HBNC  | Horizon Bancorp, Inc.                           | 16.260 | 0.480 |  2.947 | Finance               | Major Banks
+ MPB   | Mid Penn Bancorp                                | 24.250 | 0.720 |  2.939 | Finance               | Major Banks
+ HOMB  | Home BancShares, Inc.                           | 17.720 | 0.520 |  2.935 | Finance               | Major Banks
+ AMNB  | American National Bankshares, Inc.              | 34.200 | 1.000 |  2.915 | Finance               | Major Banks
+ UFCS  | United Fire Group, Inc                          | 45.160 | 1.320 |  2.911 | Finance               | Property-Casualty Insurers
+ FMBI  | First Midwest Bancorp, Inc.                     | 19.200 | 0.560 |  2.909 | Finance               | Major Banks
+ HFWA  | Heritage Financial Corporation                  | 26.180 | 0.760 |  2.909 | Finance               | Banks
+ VIA   | Viacom Inc.                                     | 27.270 | 0.800 |  2.906 | Consumer Services     | Television Services
+ WSBF  | Waterstone Financial, Inc.                      | 16.590 | 0.480 |  2.904 | Finance               | Savings Institutions
+ FRME  | First Merchants Corporation                     | 35.720 | 1.040 |  2.895 | Finance               | Major Banks
+ FDEF  | First Defiance Financial Corp.                  | 26.150 | 0.760 |  2.894 | Finance               | Savings Institutions
+ CAC   | Camden National Corporation                     | 41.460 | 1.200 |  2.885 | Finance               | Major Banks
+ FAST  | Fastenal Company                                | 30.620 | 0.880 |  2.882 | Consumer Services     | RETAIL: Building Materials
+ UBOH  | United Bancshares, Inc.                         | 19.360 | 0.520 |  2.873 | Finance               | Major Banks
+ IDCC  | InterDigital, Inc.                              | 49.170 | 1.400 |  2.872 | Miscellaneous         | Multi-Sector Companies
+ SYBT  | Stock Yards Bancorp, Inc.                       | 36.300 | 1.040 |  2.856 | Finance               | Major Banks
+ PFIN  | P & F Industries, Inc.                          |  7.026 | 0.200 |  2.849 | Technology            | Industrial Machinery/Components
+ PKBK  | Parke Bancorp, Inc.                             | 22.770 | 0.640 |  2.848 | Finance               | Major Banks
+ LKFN  | Lakeland Financial Corporation                  | 42.330 | 1.200 |  2.844 | Finance               | Major Banks
+ CHCO  | City Holding Company                            | 74.350 | 2.120 |  2.840 | Finance               | Major Banks
+ POWL  | Powell Industries, Inc.                         | 36.320 | 1.040 |  2.838 | Consumer Durables     | Electrical Products
+ CVLY  | Codorus Valley Bancorp, Inc                     | 22.360 | 0.640 |  2.836 | Finance               | Savings Institutions
+ NFBK  | Northfield Bancorp, Inc.                        | 15.520 | 0.440 |  2.833 | Finance               | Savings Institutions
+ DCOM  | Dime Community Bancshares, Inc.                 | 19.830 | 0.560 |  2.818 | Finance               | Savings Institutions
+ ORRF  | Orrstown Financial Services Inc                 | 21.340 | 0.600 |  2.810 | Finance               | Major Banks
+ MCBC  | Macatawa Bank Corporation                       |  9.890 | 0.280 |  2.800 | Finance               | Major Banks
+ PROV  | Provident Financial Holdings, Inc.              | 20.190 | 0.560 |  2.799 | Finance               | Savings Institutions
+ MOFG  | MidWestOne Financial Group, Inc.                | 28.970 | 0.810 |  2.797 | Finance               | Major Banks
+ TRMK  | Trustmark Corporation                           | 32.680 | 0.920 |  2.792 | Finance               | Major Banks
+ JRSH  | Jerash Holdings (US), Inc.                      |  7.000 | 0.200 |  2.786 | Consumer Non-Durables | Apparel
+ SGC   | Superior Group of Companies, Inc.               | 14.180 | 0.400 |  2.778 | Consumer Non-Durables | Apparel
+ CATC  | Cambridge Bancorp                               | 73.940 | 2.040 |  2.761 | Finance               | Major Banks
+ DAKT  | Daktronics, Inc.                                |  7.230 | 0.200 |  2.759 | Consumer Durables     | Miscellaneous manufacturing industries
+ CLCT  | Collectors Universe, Inc.                       | 25.920 | 0.700 |  2.754 | Miscellaneous         | Business Services
+ NTRS  | Northern Trust Corporation                      | 87.930 | 2.400 |  2.750 | Finance               | Major Banks
+ AMTD  | TD Ameritrade Holding Corporation               | 44.410 | 1.200 |  2.735 | Finance               | Investment Bankers/Brokers/Service
+ ARTNA | Artesian Resources Corporation                  | 36.400 | 0.984 |  2.726 | Public Utilities      | Water Supply
+ EWBC  | East West Bancorp, Inc.                         | 41.130 | 1.100 |  2.725 | Finance               | Major Banks
+ MATW  | Matthews International Corporation              | 29.310 | 0.800 |  2.725 | Capital Goods         | Metal Fabrications
+ AUB   | Atlantic Union Bankshares Corporation           | 36.110 | 1.000 |  2.724 | Finance               | Major Banks
+ GBCI  | Glacier Bancorp, Inc.                           | 39.690 | 1.080 |  2.720 | Finance               | Major Banks
+ KALU  | Kaiser Aluminum Corporation                     | 88.430 | 2.400 |  2.716 | Capital Goods         | Metal Fabrications
+ LNT   | Alliant Energy Corporation                      | 52.450 | 1.420 |  2.703 | Public Utilities      | Power Generation
+ AIMC  | Altra Industrial Motion Corp.                   | 25.990 | 0.680 |  2.693 | Capital Goods         | Industrial Machinery/Components
+ INTC  | Intel Corporation                               | 47.410 | 1.260 |  2.688 | Technology            | Semiconductors
+ QTRH  | Quarterhill Inc.                                |  1.410 | 0.038 |  2.688 | Miscellaneous         | Multi-Sector Companies
+ RNST  | Renasant Corporation                            | 32.790 | 0.880 |  2.685 | Finance               | Major Banks
+ FFNW  | First Financial Northwest, Inc.                 | 13.720 | 0.360 |  2.683 | Finance               | Major Banks
+ WABC  | Westamerica Bancorporation                      | 61.610 | 1.640 |  2.671 | Finance               | Major Banks
+ SFNC  | Simmons First National Corporation              | 24.000 | 0.640 |  2.662 | Finance               | Major Banks
+ EEI   | Ecology and Environment, Inc.                   | 15.130 | 0.400 |  2.653 | Consumer Services     | Military/Government/Technical
+ FBIZ  | First Business Financial Services, Inc.         | 22.550 | 0.600 |  2.647 | Finance               | Major Banks
+ BOKF  | BOK Financial Corporation                       | 76.140 | 2.000 |  2.632 | Finance               | Major Banks
+ RUTH  | Ruth&#39;s Hospitality Group, Inc.              | 19.450 | 0.520 |  2.632 | Consumer Services     | Restaurants
+ MFSF  | MutualFirst Financial Inc.                      | 30.170 | 0.800 |  2.628 | Finance               | Major Banks
+ OVBC  | Ohio Valley Banc Corp.                          | 32.210 | 0.840 |  2.626 | Finance               | Major Banks
+ FNHC  | FedNat Holding Company                          | 12.230 | 0.320 |  2.623 | Finance               | Property-Casualty Insurers
+ FMNB  | Farmers National Banc Corp.                     | 13.500 | 0.360 |  2.622 | Finance               | Major Banks
+ ESSA  | ESSA Bancorp, Inc.                              | 15.300 | 0.400 |  2.616 | Finance               | Banks
+ FNCB  | FNCB Bancorp Inc.                               |  7.360 | 0.200 |  2.614 | Finance               | Major Banks
+ INDB  | Independent Bank Corp.                          | 67.610 | 1.760 |  2.597 | Finance               | Major Banks
+ PLCE  | Children&#39;s Place, Inc. (The)                | 87.250 | 2.240 |  2.592 | Consumer Services     | Clothing/Shoe/Accessory Stores
+ SHBI  | Shore Bancshares Inc                            | 15.360 | 0.400 |  2.586 | Finance               | Major Banks
+ MRLN  | Marlin Business Services Corp.                  | 21.630 | 0.560 |  2.576 | Finance               | Major Banks
+ CCNE  | CNB Financial Corporation                       | 26.440 | 0.680 |  2.563 | Finance               | Major Banks
+ EMCI  | EMC Insurance Group Inc.                        | 35.940 | 0.920 |  2.562 | Finance               | Property-Casualty Insurers
+ SKIS  | Peak Resorts, Inc.                              | 10.980 | 0.280 |  2.550 | Consumer Services     | Hotels/Resorts
+ UCBI  | United Community Banks, Inc.                    | 26.410 | 0.680 |  2.548 | Finance               | Major Banks
+ THFF  | First Financial Corporation Indiana             | 40.600 | 1.040 |  2.543 | Finance               | Major Banks
+ RVSB  | Riverview Bancorp Inc                           |  7.050 | 0.180 |  2.542 | Finance               | Savings Institutions
+ RBCAA | Republic Bancorp, Inc.                          | 42.450 | 1.056 |  2.529 | Finance               | Major Banks
+ CFFN  | Capitol Federal Financial, Inc.                 | 13.470 | 0.340 |  2.528 | Finance               | Savings Institutions
+ CHMG  | Chemung Financial Corp                          | 40.190 | 1.040 |  2.527 | Finance               | Major Banks
+ BELFB | Bel Fuse Inc.                                   | 11.000 | 0.280 |  2.509 | Capital Goods         | Electrical Products
+ AUBN  | Auburn National Bancorporation, Inc.            | 40.036 | 1.000 |  2.498 | Finance               | Major Banks
+ WETF  | WisdomTree Investments, Inc.                    |  4.810 | 0.120 |  2.485 | Finance               | Investment Bankers/Brokers/Service
+ WVFC  | WVS Financial Corp.                             | 16.100 | 0.400 |  2.485 | Finance               | Banks
+ IBKC  | IBERIABANK Corporation                          | 68.990 | 1.720 |  2.484 | Finance               | Major Banks
+ PBBI  | PB Bancorp, Inc.                                | 11.200 | 0.280 |  2.478 | Finance               | Savings Institutions
+ LTXB  | LegacyTexas Financial Group, Inc.               | 40.400 | 1.000 |  2.477 | Finance               | Savings Institutions
+ SONA  | Southern National Bancorp of Virginia, Inc.     | 14.620 | 0.360 |  2.462 | Finance               | Major Banks
+ FCCO  | First Community Corporation                     | 17.910 | 0.440 |  2.457 | Finance               | Major Banks
+ SRCE  | 1st Source Corporation                          | 44.370 | 1.080 |  2.441 | Finance               | Major Banks
+ JRVR  | James River Group Holdings, Ltd.                | 49.280 | 1.200 |  2.436 | Finance               | Property-Casualty Insurers
+ SMMF  | Summit Financial Group, Inc.                    | 24.630 | 0.600 |  2.413 | Finance               | Major Banks
+ GWRS  | Global Water Resources, Inc.                    | 11.910 | 0.286 |  2.412 | Public Utilities      | Water Supply
+ WAFD  | Washington Federal, Inc.                        | 35.600 | 0.840 |  2.391 | Finance               | Major Banks
+ ASRV  | AmeriServ Financial Inc.                        |  4.150 | 0.100 |  2.387 | Finance               | Major Banks
+ BLMN  | Bloomin&#39; Brands, Inc.                       | 18.040 | 0.400 |  2.387 | Consumer Services     | Restaurants
+ SABR  | Sabre Corporation                               | 23.640 | 0.560 |  2.378 | Technology            | Computer Software: Programming, Data Processing
+ TSBK  | Timberland Bancorp, Inc.                        | 25.570 | 0.600 |  2.372 | Finance               | Banks
+ TILE  | Interface, Inc.                                 | 11.050 | 0.260 |  2.368 | Consumer Durables     | Home Furnishings
+ TYPE  | Monotype Imaging Holdings Inc.                  | 19.750 | 0.464 |  2.351 | Technology            | EDP Services
+ BELFA | Bel Fuse Inc.                                   | 10.070 | 0.240 |  2.349 | Capital Goods         | Electrical Products
+ SWKS  | Skyworks Solutions, Inc.                        | 75.270 | 1.760 |  2.348 | Technology            | Semiconductors
+ EBMT  | Eagle Bancorp Montana, Inc.                     | 16.400 | 0.380 |  2.344 | Finance               | Major Banks
+ TIPT  | Tiptree Inc.                                    |  6.940 | 0.160 |  2.343 | Finance               | Property-Casualty Insurers
+ FBSS  | Fauquier Bankshares, Inc.                       | 20.600 | 0.480 |  2.330 | Finance               | Major Banks
+ FMAO  | Farmers & Merchants Bancorp, Inc.               | 25.580 | 0.600 |  2.326 | Finance               | Savings Institutions
+ MGRC  | McGrath RentCorp                                | 64.030 | 1.500 |  2.324 | Technology            | Diversified Commercial Services
+ SSB   | South State Corporation                         | 73.580 | 1.720 |  2.318 | Finance               | Major Banks
+ MBCN  | Middlefield Banc Corp.                          | 47.030 | 1.120 |  2.317 | Finance               | Major Banks
+ KLIC  | Kulicke and Soffa Industries, Inc.              | 20.830 | 0.480 |  2.308 | Technology            | Semiconductors
+ LECO  | Lincoln Electric Holdings, Inc.                 | 82.560 | 1.880 |  2.307 | Technology            | Industrial Machinery/Components
+ BPOP  | Popular, Inc.                                   | 52.570 | 1.200 |  2.293 | Finance               | Major Banks
+ HSII  | Heidrick & Struggles International, Inc.        | 26.550 | 0.600 |  2.281 | Technology            | Diversified Commercial Services
+ CWBC  | Community West Bancshares                       |  9.680 | 0.220 |  2.273 | Finance               | Major Banks
+ HBCP  | Home Bancorp, Inc.                              | 37.280 | 0.840 |  2.272 | Finance               | Banks
+ GSBC  | Great Southern Bancorp, Inc.                    | 56.340 | 1.280 |  2.271 | Finance               | Major Banks
+ CVCY  | Central Valley Community Bancorp                | 19.580 | 0.440 |  2.268 | Finance               | Major Banks
+ CPHC  | Canterbury Park Holding Corporation             | 12.200 | 0.280 |  2.267 | Consumer Services     | Services-Misc. Amusement & Recreation
+ WNEB  | Western New England Bancorp, Inc.               |  8.890 | 0.200 |  2.265 | Finance               | Savings Institutions
+ GNTY  | Guaranty Bancshares, Inc.                       | 30.140 | 0.680 |  2.260 | Finance               | Major Banks
+ SBFG  | SB Financial Group, Inc.                        | 16.180 | 0.360 |  2.246 | Finance               | Major Banks
+ BANF  | BancFirst Corporation                           | 53.770 | 1.200 |  2.241 | Finance               | Major Banks
+ FMBH  | First Mid Bancshares, Inc.                      | 32.090 | 0.720 |  2.237 | Finance               | Major Banks
+ GABC  | German American Bancorp, Inc.                   | 30.530 | 0.680 |  2.214 | Finance               | Major Banks
+ EBTC  | Enterprise Bancorp Inc                          | 28.930 | 0.640 |  2.203 | Finance               | Major Banks
+ KFRC  | Kforce, Inc.                                    | 32.540 | 0.720 |  2.192 | Technology            | Professional Services
+ NTIC  | Northern Technologies International Corporation | 10.950 | 0.240 |  2.192 | Capital Goods         | Industrial Specialties
+ LBC   | Luther Burbank Corporation                      | 10.460 | 0.230 |  2.184 | Finance               | Major Banks
+ EGBN  | Eagle Bancorp, Inc.                             | 40.740 | 0.880 |  2.183 | Finance               | Major Banks
+ GFED  | Guaranty Federal Bancshares, Inc.               | 23.947 | 0.520 |  2.171 | Finance               | Major Banks
+ RBB   | RBB Bancorp                                     | 18.430 | 0.400 |  2.165 | Finance               | Major Banks
+ TCBK  | TriCo Bancshares                                | 35.360 | 0.760 |  2.162 | Finance               | Major Banks
+ HWBK  | Hawthorn Bancshares, Inc.                       | 22.100 | 0.480 |  2.126 | Finance               | Major Banks
+ VBTX  | Veritex Holdings, Inc.                          | 23.600 | 0.500 |  2.121 | Finance               | Major Banks
+ AMRB  | American River Bankshares                       | 13.401 | 0.280 |  2.112 | Finance               | Major Banks
+ CIVB  | Civista Bancshares, Inc.                        | 20.430 | 0.440 |  2.101 | Finance               | Major Banks
+ OPBK  | OP Bancorp                                      |  9.500 | 0.200 |  2.096 | Finance               | Major Banks
+ LCUT  | Lifetime Brands, Inc.                           |  7.720 | 0.170 |  2.091 | Capital Goods         | Industrial Machinery/Components
+ BMRC  | Bank of Marin Bancorp                           | 40.610 | 0.840 |  2.082 | Finance               | Major Banks
+ CRAI  | CRA International,Inc.                          | 38.890 | 0.800 |  2.075 | Miscellaneous         | Other Consumer Services
+ NATH  | Nathan&#39;s Famous, Inc.                       | 66.600 | 1.400 |  2.075 | Consumer Services     | Restaurants
+ HWKN  | Hawkins, Inc.                                   | 44.350 | 0.920 |  2.073 | Consumer Durables     | Specialty Chemicals
+ CASS  | Cass Information Systems, Inc                   | 50.600 | 1.040 |  2.062 | Miscellaneous         | Business Services
+ MTSC  | MTS Systems Corporation                         | 56.870 | 1.200 |  2.059 | Capital Goods         | Industrial Machinery/Components
+ UIHC  | United Insurance Holdings Corp.                 | 11.720 | 0.240 |  2.055 | Finance               | Property-Casualty Insurers
+ IBTX  | Independent Bank Group, Inc                     | 48.910 | 1.000 |  2.041 | Finance               | Major Banks
+ COHU  | Cohu, Inc.                                      | 11.920 | 0.240 |  2.019 | Capital Goods         | Electrical Products
+ HFBL  | Home Federal Bancorp, Inc. of Louisiana         | 31.921 | 0.640 |  2.005 | Finance               | Savings Institutions
+ MLHR  | Herman Miller, Inc.                             | 42.280 | 0.840 |  2.005 | Consumer Durables     | Office Equipment/Supplies/Services

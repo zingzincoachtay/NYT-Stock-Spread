@@ -1,0 +1,22 @@
+
+Start
+
+Get data from API recursively
+
+python panda-page.py market-daily/(JSON file)
+
+Get CREATE TABLE script
+1) CREATE TABLE of CSV
+
+a) /csv2create.pl market-daily/(CSV dated file)
+b) mysql -p <./sql-importable/
+
+2) CREATE TABLE of JSON
+
+./json2sql 
+
+Import for the relational query
+
+mysql -p < sql-importable/nysq-20190126.csv.sql
+
+

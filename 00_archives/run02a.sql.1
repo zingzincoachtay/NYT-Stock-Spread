@@ -1,0 +1,92 @@
+
+use publicly_held;
+
+DROP TABLE IF EXISTS selected4dividend;
+CREATE TABLE IF NOT EXISTS selected4dividend (`Symbol` char(14));
+
+#    where NOT Sector="Transportation"
+INSERT INTO selected4dividend (`Symbol`)
+       select `Symbol` from onebucket
+       where Sector="Finance"
+         and (
+             Name regexp "Bridgewater Bancshares|Old National Bancorp|People&#39;s|People's|Prudential Bancorp|Umpqua|Yangtze|Zions Bancorp"
+             )
+;
+INSERT INTO selected4dividend (`Symbol`)
+       select `Symbol` from onebucket
+       where Sector="Basic Industries"
+         and (
+             Name regexp "Renewable|Olympic|Gulf|natural resources"
+             )
+;
+INSERT INTO selected4dividend (`Symbol`)
+        select `Symbol` from onebucket
+        where Sector="Capital Goods"
+          and (
+          Name regexp "Turtle Beach|Hebron Technology|scientific|Bioscience|geospace|outdoor"
+          )
+;
+INSERT INTO selected4dividend (`Symbol`)
+        select `Symbol` from onebucket
+        where Sector="Energy"
+          and not (
+          industry regexp "gas|coal|refining|oilfield|oil companies"
+          )
+;
+INSERT INTO selected4dividend (`Symbol`)
+        select `Symbol` from onebucket
+        where Sector="Miscellaneous"
+          and (
+          Name regexp "NIC Inc.|FuelCell|Research"
+          )
+;
+INSERT INTO selected4dividend (`Symbol`)
+        select `Symbol` from onebucket
+        where Sector="Health Care"
+          and not (
+          industry regexp "pharmaceutical|biotechnology|dental|electronics|medical specialities|medical/nursing"
+          )
+        or (
+          Name regexp "Rockwell Medical|Riot Blockchain|Shared Hospital|PetMed Express"
+          )
+;
+INSERT INTO selected4dividend (`Symbol`)
+        select `Symbol` from onebucket
+        where Sector="Consumer Durables"
+          and not (
+          industry regexp "chemicals|packaging"
+          )
+;
+INSERT INTO selected4dividend (`Symbol`)
+        select `Symbol` from onebucket
+        where Sector="Technology"
+          and not (
+          industry regexp "broadcasting and communications|professional services|industrial machinery|prepackaged software"
+          )
+;
+INSERT INTO selected4dividend (`Symbol`)
+        select `Symbol` from onebucket
+        where Sector="Public Utilities"
+          and not (
+          industry regexp "gas|electric utilities"
+          )
+;
+INSERT INTO selected4dividend (`Symbol`)
+        select `Symbol` from onebucket
+        where Sector="Consumer Services"
+          and not (
+          industry regexp "transportation|broadcasting|food chain|movies|newspaper|telecommunications|television|video chains|catalog"
+          )
+       or (
+          Name regexp "DropCar|Ideanomics|Overstock"
+          )
+;
+INSERT INTO selected4dividend (`Symbol`)
+        select `Symbol` from onebucket
+        where Sector="Consumer Non-Durables"
+          and not (
+          industry regexp "tobacco|telecommunication|plastic|package goods|distributors|beverages|apparel"
+        )
+;
+
+
